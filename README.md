@@ -1,8 +1,3 @@
-# Firebase Studio
-
-This is a NextJS starter in Firebase Studio.
-
-To get started, take a look at src/app/page.tsx.
 # Image-to-Poem-Generator
 
 ## Running Locally
@@ -52,7 +47,3 @@ You'll need to run two development servers: one for the Next.js application and 
     This typically starts the Genkit server on `http://localhost:3400` and makes the AI flows available to your Next.js app.
 
 Now, your application should be able to use the AI features by authenticating with your API key.
-# Image-to-Poem-Generator
-# Image-to-Poem-Generator
-# Image-to-Poem-Generator
-# Poem-Generator
